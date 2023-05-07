@@ -1,2 +1,1 @@
-# Yolov3-scratch_ using TF
-
+# Yolov3-scratch_ using TensorFlow
